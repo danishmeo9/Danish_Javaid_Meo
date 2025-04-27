@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danish Javaid Meo</h1>
 <h3 align="center">A passionate Data Scientist from Karachi Pakistan</h3>
-<img align="right"alt="coding",width="400",src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMaiconMares&psig=AOvVaw1k6Xh3d2ba55sbhggutCBi&ust=1745809897604000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDjuPee94wDFQAAAAAdAAAAABAR">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishmeo9&label=Profile%20views&color=0e75b6&style=flat" alt="danishmeo9" /> </p>
 
